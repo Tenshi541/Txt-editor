@@ -8,7 +8,7 @@
 * [License](license)
 * [Questions](#questions)
 ## Description
-This is a simple text editor written in Python using the Tkinter library. It has a simple interface and basic functionality.
+This is a simple text editor written in Javascript. It has a simple interface and basic functionality.
 
 ## Installation
 To install the program, you need to download the repository and run npm i 
